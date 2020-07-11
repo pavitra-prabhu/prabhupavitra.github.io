@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am currently a data science enthusiast. Previously worked as a software engineer/Data Validation Engineer (Infosys, Société Générale) in the Financial Services sector. Have 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Obtained my Masters in Finance Analysis from the University of Wisconsin - Milwaukee and my Bachelor of Electronics Engineering from  Visvesvaraya Technological University,India.
 
+I enjoy developing useful & reusable software tools to help others — check out my projects. In the past several years I've become an experienced user
+in R and Python.
 
-[jekyll-organization]: https://github.com/jekyll
+Contact
+You can email me if you want to get in touch regarding any of my work.
