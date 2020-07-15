@@ -52,11 +52,12 @@ navbar-links:
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Pavitra Prabhu
-  email: "pavitrashivananda.prabhu@gmail.com"
-  github: prabhupavitra
-  
+collections:
+  author:
+    name: Pavitra Prabhu
+    email: "pavitrashivananda.prabhu@gmail.com"
+    github: prabhupavitra
+
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -72,12 +73,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts 		
-      show-share: true # add sharing buttons to all blog posts		
-      show-subscribe: true # add subscribe email to all blog posts
       addthis-plugin: true
-      carbonads: true
-      datacampcourse: true
   -
     scope:
       path: "" # all files
