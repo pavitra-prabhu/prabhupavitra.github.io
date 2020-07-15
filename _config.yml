@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Experienced in data analysis, R and Python with a MS in Finance Analysis and a Bachelor of Electronics and Communication Engineering. Previously a software engineer at Infosys and Société Générale.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#github_username:  prabhupavitra
+github_username:  prabhupavitra
 
 # --- Outputting options --- #
 # More information can be found on Jekyll's site
@@ -50,13 +50,6 @@ navbar-links:
 
 # --- Footer options --- #
 
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
-collections:
-  author:
-    name: Pavitra Prabhu
-    email: "pavitrashivananda.prabhu@gmail.com"
-    github: prabhupavitra
 
 # --- Misc --- #
 
