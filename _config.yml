@@ -4,7 +4,7 @@ title: The Realm of Data Science
 email: pavitrashivananda.prabhu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    A website featuring my projects and views appertaining to the realm of data science. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  prabhupavitra
 
